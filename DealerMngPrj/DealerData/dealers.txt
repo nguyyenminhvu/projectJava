@@ -1,0 +1,11 @@
+D001,Adam,432 street A,123456789,false
+D002,ty nguyen,123,123456789,true
+D003,Hellen,32 street c,08123456789,false
+D004,Adelle,43 street D,87123456789,false
+D006,Henry,154 street D,84562310251,true
+D007,Khang,32 street D,123456901,false
+D008,NHU,62 Street Z,09096756211,false
+D010,Tom,121 Street H,020315957,true
+D012,Hank,365 Street P,203265987,true
+D021,John,238 street A,203658978,true
+D036,Cruise,366 Street P,232652102,true
